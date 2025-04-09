@@ -1,0 +1,12 @@
+name: test_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy>=1.21,<2           # Compatible with pandas, matplotlib, scipy, contourpy
+  - pandas=2.1.4
+  - matplotlib=3.8.0
+  - scipy=1.10.1
+  - scikit-learn=1.2.2
+  - tensorflow=2.12.0      # Includes Keras as tf.keras
+  - contourpy=1.2.0
