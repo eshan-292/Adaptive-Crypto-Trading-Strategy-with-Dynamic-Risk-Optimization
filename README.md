@@ -1,4 +1,25 @@
+
+
 # Project Report: Backtesting a Crypto Trading Strategy
+
+
+## Table of Contents
+
+1. [Introduction](#1-introduction)
+2. [Strategy Design](#2-strategy-design)
+   - [2.1 Technical Indicators](#21-technical-indicators)
+   - [2.2 Adaptive Parameters](#22-adaptive-parameters)
+3. [Methodology](#3-methodology)
+   - [3.1 Data Parsing and Preparation](#31-data-parsing-and-preparation)
+   - [3.2 Strategy Implementation](#32-strategy-implementation)
+   - [3.3 Backtesting](#33-backtesting)
+4. [Results](#4-results)
+5. [Analysis and Conclusion](#5-analysis-and-conclusion)
+   - [5.1 Strengths of the Strategy](#51-strengths-of-the-strategy)
+   - [5.2 Weaknesses of the Strategy](#52-weaknesses-of-the-strategy)
+   - [5.3 Other Experiments](#53-other-experiments)
+   - [5.4 Future Improvements](#54-future-improvements)
+
 
 ## 1. Introduction
 
@@ -99,20 +120,3 @@ Other experimental approaches were explored, with the code available in the Jupy
   Although the machine learning experiments mostly resulted in overfitting, combining them with the traditional approaches might lead to improved results.
 
 ---
-
-## Table of Contents
-
-1. [Introduction](#1-introduction)
-2. [Strategy Design](#2-strategy-design)
-   - [2.1 Technical Indicators](#21-technical-indicators)
-   - [2.2 Adaptive Parameters](#22-adaptive-parameters)
-3. [Methodology](#3-methodology)
-   - [3.1 Data Parsing and Preparation](#31-data-parsing-and-preparation)
-   - [3.2 Strategy Implementation](#32-strategy-implementation)
-   - [3.3 Backtesting](#33-backtesting)
-4. [Results](#4-results)
-5. [Analysis and Conclusion](#5-analysis-and-conclusion)
-   - [5.1 Strengths of the Strategy](#51-strengths-of-the-strategy)
-   - [5.2 Weaknesses of the Strategy](#52-weaknesses-of-the-strategy)
-   - [5.3 Other Experiments](#53-other-experiments)
-   - [5.4 Future Improvements](#54-future-improvements)
